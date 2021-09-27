@@ -1,0 +1,16 @@
+{
+  "name": "masked-hero",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Taif Rahaman",
+  "license": "ISC",
+  "dependencies": {
+    "gsap": "^3.7.1",
+    "lodash.throttle": "^4.1.1",
+    "splitting": "^1.0.6"
+  }
+}

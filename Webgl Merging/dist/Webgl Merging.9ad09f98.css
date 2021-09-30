@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+canvas {
+  display: block;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+}
+
+
+/*# sourceMappingURL=/Webgl%20Merging.9ad09f98.css.map */
